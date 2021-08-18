@@ -1,0 +1,8 @@
+display: grid;
+// torna o elemento um 'grid container'
+
+display: inline-grid;
+// torna o elemento um grid container porém, com compartamento inline.
+
+display: subgrid;
+// Para grids dentro de grids 
